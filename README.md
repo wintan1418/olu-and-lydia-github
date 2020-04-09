@@ -1,2 +1,2 @@
-# olu-and-lydia-github
-this is new
+#my portfolio
+this is my portfolio
